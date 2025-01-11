@@ -1,0 +1,12 @@
+div{
+    margin: 3rem 0 ;
+    background: green;
+    text-align: center;
+    padding: 10px  20px ;
+}
+
+button{
+
+    background: gold;
+    padding: 0.4rem 2rem ;
+}
